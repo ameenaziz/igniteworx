@@ -97,13 +97,34 @@ textarea {
 
 
 html { 
-  background: url(../img/city-pan.jpg) no-repeat center center fixed; 
+  /*background: url(../img/city-pan.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: cover;*/
 }
 
+
+.Aligner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Aligner-item {
+    color: #333;
+    /*max-width: 80%;*/
+    font-size: 3.5em;
+    padding-top: 85px;
+    /*background: #921313;*/
+    /*background: #91877b;*/
+    margin-top: 170px;
+    padding-left: 10px;
+    padding-right: 10px;
+    /*opacity: 0.5;*/
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+
+}
 
 
 /* ==========================================================================
@@ -188,10 +209,6 @@ html {
 
 @media only screen and (min-width: 35em) {
     /* Style adjustments for viewports that meet the condition */
-
-    .Aligner-item {
-        font-size: 6em;
-    }
 
 
 }
