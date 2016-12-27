@@ -112,7 +112,7 @@ html {
 }
 
 .Aligner-item {
-    color: #333;
+    color: #4e4e4e;
     /*max-width: 80%;*/
     font-size: 3.5em;
     padding-top: 85px;
@@ -121,10 +121,31 @@ html {
     margin-top: 170px;
     padding-left: 10px;
     padding-right: 10px;
+    text-align: center;
     /*opacity: 0.5;*/
     text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
 
 }
+
+h1 {
+    font-size: 1.3em;
+    margin: 0;
+    /* margin: 0.67em 0; */
+}
+
+h2 {
+    font-size: 0.480em;
+    margin: 0;
+    /* margin: 0.67em 0; */
+}
+
+h3 {
+    color: #949494;
+    font-size: 0.380em;
+    margin: 10px 0;
+    /* margin: 0.67em 0; */
+}
+
 
 
 /* ==========================================================================
