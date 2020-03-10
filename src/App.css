@@ -1,4 +1,25 @@
+html, body, .App {
+  height: 100%;
+}
+
 .App {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 100vh;
+}
+
+.content {
+  flex: 1 0 auto;
+  padding: 20px;
+}
+
+.footer {
+  flex-shrink: 0;
+  padding: 20px;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -26,47 +47,37 @@
 
 .App-link {
   color: #61dafb;
-}
+} */
+
 /*  */
 
-.Aligner {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.Aligner-item {
+/* .Aligner-item {
   color: #4e4e4e;
-  /*max-width: 80%;*/
-
-  padding-top: 85px;
-  /*background: #921313;*/
-  /*background: #91877b;*/
-  margin-top: 170px;
-  padding-left: 10px;
-  padding-right: 10px;
-  text-align: center;
-  /*opacity: 0.5;*/
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
-}
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+} */
 
-.Aligner-item h1 {
+/* .Aligner-item h1 {
   font-size: 2.7em;
 }
+
 .Aligner-item h2 {
   font-size: 1.7em;
 }
+
 .Aligner-item h3 {
   font-size: 0.7em;
-}
+} */
 
 /*  */
 
-@keyframes App-logo-spin {
+/* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
-}
+} */
