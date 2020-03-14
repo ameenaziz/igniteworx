@@ -3,8 +3,8 @@ import Link from 'gatsby-link'
 
 const IndexPage = () => (
   <div>
-    <h1>Igniteworx</h1>
-    <p>Web and mobile apps</p>
+    <h1>Web and mobile apps</h1>
+    <p>Fast and Flexible</p>
   </div>
 )
 

@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Crash Course',
+    title: 'Igniteworx',
+    footer: '&copy; 2020'
   },
   plugins: [
     'gatsby-plugin-react-helmet',

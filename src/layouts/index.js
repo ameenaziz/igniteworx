@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 
 import Header from '../components/header'
+import Footer from '../components/footer'
 import Menu from '../components/menu'
 import './index.css'
 
@@ -13,7 +14,7 @@ const Layout = ({ children, data }) => (
       meta={[
         {
           name: 'description',
-          content: 'sadasdaasda',
+          content: 'This is a sample website for the Gatsby crash course',
         },
         { name: 'keywords', content: 'gatsby, react, tutorial' },
       ]}
@@ -30,6 +31,7 @@ const Layout = ({ children, data }) => (
     >
       {children()}
     </div>
+    <Footer  />
   </div>
 )
 
@@ -44,6 +46,7 @@ export const query = graphql`
     site {
       siteMetadata {
         title
+        
       }
     }
   }
