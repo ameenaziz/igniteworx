@@ -14,9 +14,9 @@ const Layout = ({ children, data }) => (
       meta={[
         {
           name: 'description',
-          content: 'This is a sample website for the Gatsby crash course',
+          content: 'Igniteworx creates fast and flexible websites and mobile apps ',
         },
-        { name: 'keywords', content: 'gatsby, react, tutorial' },
+        { name: 'keywords', content: 'website development, mobile apps' },
       ]}
     />
     <Header siteTitle={data.site.siteMetadata.title} />
@@ -45,8 +45,7 @@ export const query = graphql`
   query SiteTitleQuery {
     site {
       siteMetadata {
-        title
-        
+        title        
       }
     }
   }
