@@ -8,7 +8,7 @@ const Menu = () => (
       paddingTop: '10px',
     }}
   >
-    <ul
+    {/* <ul
       style={{
         listStyle: 'none',
         display: 'flex',
@@ -25,9 +25,9 @@ const Menu = () => (
         <Link to="/services">Services</Link>
       </li>
       <li>
-        {/* <Link to="/blog">Blog</Link> */}
+        <Link to="/blog">Blog</Link>
       </li>
-    </ul>
+    </ul> */}
   </div>
 )
 
