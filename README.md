@@ -1,6 +1,6 @@
-# Gatsby Crash Course
+# Igniteworx
 
-This is a sample Gatsby website with a Markdown blog. It is the project from the Gatsby JS Crash Course on YouTube by Traversy Media
+Static site for Igniteworx
 
 ## Install
 
@@ -17,5 +17,3 @@ npm install
 ```
 
 ## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
