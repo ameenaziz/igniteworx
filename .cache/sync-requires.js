@@ -20,8 +20,8 @@ exports.components = {
 exports.json = {
   "layout-index.json": require("/Users/ameen/Documents/workspace/igniteworx/.cache/json/layout-index.json"),
   "post-two.json": require("/Users/ameen/Documents/workspace/igniteworx/.cache/json/post-two.json"),
-  "post-one.json": require("/Users/ameen/Documents/workspace/igniteworx/.cache/json/post-one.json"),
   "post-three.json": require("/Users/ameen/Documents/workspace/igniteworx/.cache/json/post-three.json"),
+  "post-one.json": require("/Users/ameen/Documents/workspace/igniteworx/.cache/json/post-one.json"),
   "dev-404-page.json": require("/Users/ameen/Documents/workspace/igniteworx/.cache/json/dev-404-page.json"),
   "404.json": require("/Users/ameen/Documents/workspace/igniteworx/.cache/json/404.json"),
   "about.json": require("/Users/ameen/Documents/workspace/igniteworx/.cache/json/about.json"),

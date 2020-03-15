@@ -7,7 +7,10 @@ import Footer from '../components/footer'
 import Menu from '../components/menu'
 import './index.css'
 
+
+
 const Layout = ({ children, data }) => (
+
   <div>
     <Helmet
       title={data.site.siteMetadata.title}
@@ -19,7 +22,7 @@ const Layout = ({ children, data }) => (
         { name: 'keywords', content: 'website development, mobile apps' },
       ]}
     />
-    <Header siteTitle={data.site.siteMetadata.title} />
+    <Header pageHeader={data.site.siteMetadata.pageHeader} />
     <Menu />
     <div
       style={{
@@ -45,7 +48,8 @@ export const query = graphql`
   query SiteTitleQuery {
     site {
       siteMetadata {
-        title        
+        title 
+        pageHeader       
       }
     }
   }

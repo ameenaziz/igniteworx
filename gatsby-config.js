@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Igniteworx',
+    title: 'Igniteworx | web and mobile apps',
+    pageHeader: 'Igniteworx',
     footer: '&copy; 2020'
   },
   plugins: [
