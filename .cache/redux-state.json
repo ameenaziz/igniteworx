@@ -1201,10 +1201,10 @@
       "extension": "js",
       "size": 227,
       "prettySize": "227 B",
-      "modifiedTime": "2020-03-14T21:35:08.924Z",
-      "accessTime": "2020-03-14T21:51:19.690Z",
-      "changeTime": "2020-03-14T21:35:08.924Z",
-      "birthTime": "2020-03-14T21:11:11.821Z",
+      "modifiedTime": "2020-03-15T21:17:37.366Z",
+      "accessTime": "2020-03-15T21:17:37.534Z",
+      "changeTime": "2020-03-15T21:17:37.366Z",
+      "birthTime": "2020-03-15T21:17:37.366Z",
       "root": "/",
       "dir": "/Users/ameen/Documents/workspace/igniteworx/src/pages",
       "base": "index.js",
@@ -1218,16 +1218,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 4359237336,
+      "ino": 4359280645,
       "blocks": 8,
-      "atimeMs": 1584222679690.1428,
-      "mtimeMs": 1584221708924.3154,
-      "ctimeMs": 1584221708924.3154,
-      "birthtimeMs": 1584220271821.252,
-      "atime": "2020-03-14T21:51:19.690Z",
-      "mtime": "2020-03-14T21:35:08.924Z",
-      "ctime": "2020-03-14T21:35:08.924Z",
-      "birthtime": "2020-03-14T21:11:11.821Z"
+      "atimeMs": 1584307057533.914,
+      "mtimeMs": 1584307057366.2847,
+      "ctimeMs": 1584307057366.2847,
+      "birthtimeMs": 1584307057366.074,
+      "atime": "2020-03-15T21:17:37.534Z",
+      "mtime": "2020-03-15T21:17:37.366Z",
+      "ctime": "2020-03-15T21:17:37.366Z",
+      "birthtime": "2020-03-15T21:17:37.366Z"
     },
     "/Users/ameen/Documents/workspace/igniteworx/src/pages/2018-04-09-post-one/index.md absPath of file": {
       "id": "/Users/ameen/Documents/workspace/igniteworx/src/pages/2018-04-09-post-one/index.md absPath of file",
@@ -1354,7 +1354,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dbbb5e419924bf58c40bcff95dd3fb5c",
+        "contentDigest": "2cbf59c59a758865a0a8ba1c114d2b38",
         "owner": "internal-data-bridge"
       }
     },
@@ -1374,7 +1374,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e9465962bbda1ae41bce2f13cf2c1e78",
+        "contentDigest": "30470cf6a6aa9ca3a9f6ac3c316ac1ea",
         "owner": "internal-data-bridge"
       }
     },
@@ -1394,7 +1394,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4f33026ca841cdb979140aa4ba041e38",
+        "contentDigest": "dd8b8cf941b5b426498b0bc2346ce5b9",
         "owner": "internal-data-bridge"
       }
     },
